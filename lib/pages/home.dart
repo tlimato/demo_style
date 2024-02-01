@@ -347,7 +347,7 @@ class HomePage extends StatelessWidget {
       centerTitle: true,
       leading: GestureDetector(
         onTap: () {
-
+          // No Functionality added only single page
         },
         // BACK BUTTON: Fit Graphic, color, NO Function
         child: Container(
@@ -366,7 +366,10 @@ class HomePage extends StatelessWidget {
       ),
       actions: [
         GestureDetector(
-          onTap: () {},
+          onTap: () {
+            // No Functionality added only single page
+          },
+          // 3 Dot menu
           child: Container(
             margin: const EdgeInsets.all(10),
             alignment: Alignment.center,

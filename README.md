@@ -1,16 +1,10 @@
 # demo_style
 
-A new Flutter project.
+A new Flutter project to create a very simple stylistically formatted landing page.
+Purpose is to build some basic yet modern UI in an afternoon or so, get familariar with structuring and workflow in Flutter, and gain experience with the native svg plugin.
 
-## Getting Started
+# Demo of working application in virtual machine
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Final_Output](https://github.com/tlimato/demo_style/assets/72205469/d8ac3669-7a6c-4019-b5a9-ebe63bc84dac)
+![Screenshot from 2024-02-01 09-06-26](https://github.com/tlimato/demo_style/assets/72205469/7bee100f-e632-45af-b57c-f42e6ca9289f)
